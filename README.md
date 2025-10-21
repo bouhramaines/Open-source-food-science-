@@ -29,16 +29,18 @@ To understand how open-source software can be applied in food research and to pr
 
 👩‍🔬 Project by
 
-Bouhrama Ines 
-Mouhamou Maissa 
-Selsabile Azouni
-Aggoun Assia
-Abla cheknoun
+Bouhrama Ines.
+Mouhamou Maissa.
+Selsabile Azouni.
+Aggoun Assia.
+Abla cheknoun.
 
 📍 What you learned:
 
 How to use GitHub to create and share a scientific project.
 
 The importance of free and open-source tools in academic researche .
-Conclusion 
+
+
+Conclusion:
 Open-source software gives students and researchers in food science the ability to explore, share, and innovate without limits. It encourages collaboration and makes scientific research more transparent and accessible.
