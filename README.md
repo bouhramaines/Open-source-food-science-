@@ -35,12 +35,12 @@ Selsabile Azouni.
 Aggoun Assia.
 Abla cheknoun.
 
-📍 **What you learned:**
+📍 **What you learned**:
 
 How to use GitHub to create and share a scientific project.
 
 The importance of free and open-source tools in academic researche .
 
 
-**Conclusion:**
+**Conclusion**:
 Open-source software gives students and researchers in food science the ability to explore, share, and innovate without limits. It encourages collaboration and makes scientific research more transparent and accessible.
