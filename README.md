@@ -17,7 +17,8 @@ LibreOffice	Writing and editing lab reports
 R (RStudio)	Statistical analysis of food composition
 GIMP	Editing microscopic food images
 QGIS	Mapping agricultural and food production areas
-VLC	Displaying educational videos
+VLC	Displaying educational videos.
+Here are some useful open-source tools used in food science research: - **Python**: Used for data analysis, modeling, and visualization of food composition. - **R**: Helps researchers perform statistical analysis and create scientific graphs. - **ImageJ**: A free tool used to analyze images of food samples, such as texture and color. - **QGIS**: Useful for studying food production areas and mapping agricultural data.
 
 🎯 Project Goal
 
@@ -38,4 +39,6 @@ Abla cheknoun
 
 How to use GitHub to create and share a scientific project.
 
-The importance of free and open-source tools in academic researche 
+The importance of free and open-source tools in academic researche .
+Conclusion 
+Open-source software gives students and researchers in food science the ability to explore, share, and innovate without limits. It encourages collaboration and makes scientific research more transparent and accessible.
